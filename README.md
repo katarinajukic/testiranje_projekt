@@ -5,7 +5,7 @@
 - **Selenium WebDriver** -> otvoreni alat za automatizaciju web aplikacija koji omogućuje testiranje različitih funkcionalnosti
 - **JUnit** -> okvir za testiranje koji podržava automatsko izvođenje testova i prikazivanje rezultata
 - **WebDriverManager** -> alat za automatsko upravljanje WebDriver verzijama, što olakšava konfiguraciju
-- **Wait naredba u Selenium WebDriveru** -> upotrebljava se za precizno upravljanje vremenom čekanja kako bi se izbjegli problemi s asinkronim elementima
+- **Wait naredba u Selenium WebDriveru** -> upotrebljava se za precizno upravljanje vremenom čekanja kako bi se izbjegli problemi s asinkronim elementima<br>
 ![image](https://github.com/katarinajukic/testiranje_projekt/assets/133279741/b236d642-1bd3-4c86-b0c7-5dc992192fb1)
 
  ## Struktura projekta
