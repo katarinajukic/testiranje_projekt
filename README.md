@@ -2,10 +2,10 @@
  Ovaj projekt implementira okvir za automatsko testiranje programske podrške koristeći Selenium WebDriver. Projekt je napravljen u IntelliJ s programskim jezikom Java i sadrži pet testnih slučajeva: testiranje prijave, odjave, pretraživanja stranice, spremanje "pin-a" i odabiranje "pin-a".
 
  ## Alati
- **Selenium WebDriver** -> otvoreni alat za automatizaciju web aplikacija koji omogućuje testiranje različitih funkcionalnosti
- **JUnit** -> okvir za testiranje koji podržava automatsko izvođenje testova i prikazivanje rezultata
- **WebDriverManager** -> alat za automatsko upravljanje WebDriver verzijama, što olakšava konfiguraciju
- **Wait naredba u Selenium WebDriveru** -> upotrebljava se za precizno upravljanje vremenom čekanja kako bi se izbjegli problemi s asinkronim elementima
+- **Selenium WebDriver** -> otvoreni alat za automatizaciju web aplikacija koji omogućuje testiranje različitih funkcionalnosti
+- **JUnit** -> okvir za testiranje koji podržava automatsko izvođenje testova i prikazivanje rezultata
+- **WebDriverManager** -> alat za automatsko upravljanje WebDriver verzijama, što olakšava konfiguraciju
+- **Wait naredba u Selenium WebDriveru** -> upotrebljava se za precizno upravljanje vremenom čekanja kako bi se izbjegli problemi s asinkronim elementima
 
  ## Struktura projekta
  ![image](https://github.com/katarinajukic/testiranje_projekt/assets/133279741/08221abf-bc24-46b0-9a0e-5bfe8875a067)
